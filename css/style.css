@@ -1,3 +1,29 @@
-h1{
-    color: tomato;
+.nav-item{
+    font-size: large;
+    font-weight: 700;
+}
+.container{
+    margin-bottom: 100px;
+}
+.blue-bg{
+    background-color: rgb(200, 185, 255);
+    border-radius: 10px;
+}
+.buy-now-button{
+    
+         background-image: linear-gradient(45deg, gold, #cd8355);
+        color: #fceae8;
+        font-weight: 600;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px gray;
 }
